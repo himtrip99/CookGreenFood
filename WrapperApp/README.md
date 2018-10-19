@@ -9,13 +9,6 @@
 1. [Node.js](https://nodejs.org)
 1. [MongoDB](https://mongodb.com)
 
-### Features
-- Write a story
-- Social Sign-in
-- View a story
-- View all stories
-- Follow a user
-- Clap a story
 
 ### Installation
 * Git clone this repo [here](https://github.com/himtrip99/CookGreenFood/).
